@@ -1,7 +1,7 @@
-f10fae5a65d6519602dd74adce557c66 *DESCRIPTION
+44e12e2377529d915b79e0e57c7059e3 *DESCRIPTION
 51bdd72c5e8e30746ec7e4a725436d0d *LICENSE
 21ab60338f64b4524d72cc846e33387b *NAMESPACE
-495e8d3f1ea6dbb48132c424c2038cd8 *NEWS.md
+c8a7605d2a89ca9fdde0878d9a5e6031 *NEWS.md
 2688b3891d825d689b4103e9a3fe7984 *R/arithmetic.R
 b581d9570458921c8658f1ae4d04a625 *R/calendar.R
 1b670e3ccafd746b757410da344fcdba *R/check.R
@@ -11,7 +11,7 @@ ff4e1a87bbdf6b022b26e89048b14e85 *R/clock-labels.R
 24c4aabac103906321217d32f72e9a3b *R/clock-locale.R
 164491658c83bc0e8be489edbca6e185 *R/clock-package.R
 dc65ad5343010e09a92ed151166bd6b5 *R/clock.R
-bf949d6509fbb7806dc3d38657c08a61 *R/cpp11.R
+52f23f2b98c2ce0a97e5b670c62cb5fe *R/cpp11.R
 9f300353f25bb1eeb2ef58cbc84649f7 *R/date.R
 37d6772a008e601f6278d9d29c4f0518 *R/duration.R
 f31d9a30320b4d85a9db66573bb89bbc *R/getters.R
@@ -263,8 +263,8 @@ e1bc5a0bac75ae4aeff7b69cb64d2031 *src/iso-year-week-day.cpp
 541f6874addd7cc2171b46408e9fafad *src/iso-year-week-day.h
 fa13920c7fb8413b869e05e461c117ee *src/limits.cpp
 491e0c5d9c8b859d1d5018602fa5c10d *src/naive-time.cpp
-d736e361ae59be3fd997b9fe7e78b6a2 *src/ordinal.h
-81b71e309b2328c78e5b5aee637f5df3 *src/parse.h
+cecc8641cbb0606478b01eed7cf5e210 *src/ordinal.h
+53acd4076f54cb482a512046fcde474b *src/parse.h
 2b30012ff7e14a1bd6842a2e17c8f3cd *src/quarterly-shim.h
 21c74e7a6e50b896bda9864f6d395652 *src/quarterly-year-quarter-day.cpp
 f68f7633c1fdd215f684e50e986b9aa4 *src/quarterly-year-quarter-day.h
@@ -280,7 +280,7 @@ d05c898688a3428c327c565fbff3aabc *src/utils.h
 7f1662ef7cc47a313da3111c99fab47d *src/week-shim.h
 f820bbe340068190eb41d613e094a4f3 *src/week-year-week-day.cpp
 56a7707863461d2efc0b0f7b22d06b3e *src/week-year-week-day.h
-f1fdb5a37074c1bb95edc56c232e98e3 *src/week.h
+3e6113f6f4e7ed865e694093621a8e17 *src/week.h
 48525ebe86ead5ea816b74162ac63752 *src/weekday.cpp
 12e32af6de1348476371824ac7443533 *src/zone.cpp
 74e8f7bb8d1bbc2a5c35bcc6cec3a650 *src/zone.h
@@ -320,7 +320,7 @@ e2c86ce9874efbc92802ea2160cd28da *tests/testthat/test-date.R
 75ac81ca5466a3a460be3d5b22d70e78 *tests/testthat/test-duration.R
 8245f45e0880a7b91500fa57ecf3cace *tests/testthat/test-getters.R
 42f0edf1dd589076bcb911fbc60a8996 *tests/testthat/test-gregorian-year-day.R
-34b292a4345f39a3b36ebcb5c523a796 *tests/testthat/test-gregorian-year-month-day.R
+cfd53e0e6a358649363167399974f648 *tests/testthat/test-gregorian-year-month-day.R
 cd67086ad997008c5df6546ece8bb377 *tests/testthat/test-gregorian-year-month-weekday.R
 430c9ac17d9dc3d55b7cbfd3e9a7969e *tests/testthat/test-invalid.R
 6c4af29c1ef1c03249374ca915dfd7bc *tests/testthat/test-iso-year-week-day.R
@@ -328,7 +328,7 @@ df4396bbc738146ccd750d68026ba9f7 *tests/testthat/test-naive-time.R
 6e8288e430fcf6ab90622ed33b7dee4d *tests/testthat/test-posixt.R
 65ecdf3f351469bffc35cf541be0cf4c *tests/testthat/test-quarterly-year-quarter-day.R
 6c0c91b8e27c4c1357c06835acbf39ae *tests/testthat/test-sys-time.R
-fce31089d4dd9e8f1fdb9aba9ebfb085 *tests/testthat/test-time-point.R
+07c2ceffcc065f0c050ce19eb7db1278 *tests/testthat/test-time-point.R
 4c3d73593506f05529aced0201473697 *tests/testthat/test-utils.R
 7b1eed1974c8768a900f86fe3e3882c4 *tests/testthat/test-week-year-week-day.R
 c62fe46cea25173384ed11ade21e874a *tests/testthat/test-weekday.R

@@ -1,6 +1,6 @@
 Package: clock
 Title: Date-Time Types and Tools
-Version: 0.7.2
+Version: 0.7.3
 Authors@R: c(
     person("Davis", "Vaughan", , "davis@posit.co", role = c("aut", "cre")),
     person("Posit Software, PBC", role = c("cph", "fnd"))
@@ -14,12 +14,12 @@ Description: Provides a comprehensive library for date-time manipulations
 License: MIT + file LICENSE
 URL: https://clock.r-lib.org, https://github.com/r-lib/clock
 BugReports: https://github.com/r-lib/clock/issues
-Depends: R (>= 3.6.0)
-Imports: cli (>= 3.6.1), lifecycle (>= 1.0.3), rlang (>= 1.1.0), tzdb
-        (>= 0.4.0), vctrs (>= 0.6.1)
-Suggests: covr, knitr, magrittr, pillar, rmarkdown, slider (>= 0.3.0),
+Depends: R (>= 4.0.0)
+Imports: cli (>= 3.6.4), lifecycle (>= 1.0.4), rlang (>= 1.1.5), tzdb
+        (>= 0.5.0), vctrs (>= 0.6.5)
+Suggests: covr, knitr, magrittr, pillar, rmarkdown, slider (>= 0.3.2),
         testthat (>= 3.0.0), withr
-LinkingTo: cpp11 (>= 0.5.1), tzdb (>= 0.4.0)
+LinkingTo: cpp11 (>= 0.5.2), tzdb (>= 0.5.0)
 VignetteBuilder: knitr
 Config/build/compilation-database: true
 Config/Needs/website: lubridate, tidyverse/tidytemplate
@@ -28,9 +28,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2025-01-21 22:04:46 UTC; davis
+Packaged: 2025-03-17 14:40:28 UTC; davis
 Author: Davis Vaughan [aut, cre],
   Posit Software, PBC [cph, fnd]
 Maintainer: Davis Vaughan <davis@posit.co>
 Repository: CRAN
-Date/Publication: 2025-01-21 23:00:02 UTC
+Date/Publication: 2025-03-21 19:00:02 UTC
