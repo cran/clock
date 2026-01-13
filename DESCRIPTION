@@ -1,6 +1,6 @@
 Package: clock
 Title: Date-Time Types and Tools
-Version: 0.7.3
+Version: 0.7.4
 Authors@R: c(
     person("Davis", "Vaughan", , "davis@posit.co", role = c("aut", "cre")),
     person("Posit Software, PBC", role = c("cph", "fnd"))
@@ -28,9 +28,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2025-03-17 14:40:28 UTC; davis
+Packaged: 2026-01-13 14:52:13 UTC; davis
 Author: Davis Vaughan [aut, cre],
   Posit Software, PBC [cph, fnd]
 Maintainer: Davis Vaughan <davis@posit.co>
 Repository: CRAN
-Date/Publication: 2025-03-21 19:00:02 UTC
+Date/Publication: 2026-01-13 16:10:02 UTC

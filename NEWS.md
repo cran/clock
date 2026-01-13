@@ -1,3 +1,7 @@
+# clock 0.7.4
+
+* Avoid non-API `SET_ATTRIB()`.
+
 # clock 0.7.3
 
 * `%Y`, `%F`, `%G`, and `%c` now parse up to 4 _characters_ by default, rather
